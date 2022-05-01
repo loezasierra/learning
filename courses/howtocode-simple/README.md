@@ -7,7 +7,7 @@
     - Do practice problems, working them from scratch before looking at the solution. 
 
 In the words of a former student:
-    > It's funny how repetition in actually doing the work leads to it all of a sudden making sense to me. I can't explain it. I don't have a sense of growing understanding. I have confusion, repetition, and suddenly a sense of understanding. It's not coming through watching or reading, though. It comes from replicating what I've watched several times. This has happened repeatedly for me in this class. I start the week with a sense of accomplishment, well being, peace of mind, and confidence from the victory over last week's homework. I am then submerged in doubt, confusion, and erm, terror. (Why not be melodramatic?) Suddenly there is a working epiphany and I have victory again.
+> It's funny how repetition in actually doing the work leads to it all of a sudden making sense to me. I can't explain it. I don't have a sense of growing understanding. I have confusion, repetition, and suddenly a sense of understanding. It's not coming through watching or reading, though. It comes from replicating what I've watched several times. This has happened repeatedly for me in this class. I start the week with a sense of accomplishment, well being, peace of mind, and confidence from the victory over last week's homework. I am then submerged in doubt, confusion, and erm, terror. (Why not be melodramatic?) Suddenly there is a working epiphany and I have victory again.
 
 2. Do not worry about making mistakes! If you make a mistake and get an error message read the error message, use it to identify the problem and then correct it.
 

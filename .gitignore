@@ -4,6 +4,11 @@
 
 ### C ###
 
+# Compiled files
+*
+!*.*
+!*/
+
 # Prerequisites
 *.d
 

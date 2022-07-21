@@ -1,0 +1,1 @@
+collected resources from learning sources
